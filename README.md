@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/81486566/186792214-64065ee2-ed0d-48da-ad84-06d9382b2fec.png)
+![rick-and-morty-8](https://user-images.githubusercontent.com/81486566/186799053-098a59a0-e653-4f58-a3a7-1cc9c743f47b.png)
 
 <p align="center">
   <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,8 +10,7 @@
 <br />
 
 ## Description
-
-
+https://user-images.githubusercontent.com/81486566/186798578-1e6d8baa-05f2-4dfa-ae2e-978ba9eb67fd.mp4
 ## Requirements
 
 - [Npm](https://www.npmjs.com/)
