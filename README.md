@@ -19,11 +19,6 @@ https://user-images.githubusercontent.com/81486566/186798578-1e6d8baa-05f2-4dfa-
 
 ## Technologies
 
-### Backend (Api)
-
-- Nodejs
-- Typescript
-
 ### Front End
 
 - NextJs
