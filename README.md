@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#demonstration">Demonstration</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#requirements">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,7 +11,13 @@
 <br />
 
 ## Description
+
+  My first website integrated with an external api, where the user can see the characteristics and information of his favorite characters from the Rick and Morty series.
+  
+## Demonstration
+
 https://user-images.githubusercontent.com/81486566/186798578-1e6d8baa-05f2-4dfa-ae2e-978ba9eb67fd.mp4
+
 ## Requirements
 
 - [Npm](https://www.npmjs.com/)
